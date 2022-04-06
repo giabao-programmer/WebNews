@@ -1,0 +1,115 @@
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\DVCP.dll.config
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\DVCP.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\DVCP.pdb
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\Antlr3.Runtime.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\ElFinder.Net.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\EntityFramework.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\EntityFramework.SqlServer.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\Microsoft.Owin.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\Newtonsoft.Json.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\PagedList.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\PagedList.Mvc.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\SlugGenerator.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.Helpers.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.Mvc.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.Optimization.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.Razor.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.WebPages.Deployment.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.WebPages.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.WebPages.Razor.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\WebGrease.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\ElFinder.Net.pdb
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\ElFinder.Net.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\EntityFramework.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\EntityFramework.SqlServer.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\Microsoft.Owin.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\Newtonsoft.Json.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\PagedList.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\PagedList.Mvc.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.Helpers.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.Mvc.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.Razor.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.WebPages.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.WebPages.Deployment.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.WebPages.Razor.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Web.Optimization.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\Antlr3.Runtime.pdb
+C:\Users\quang\Desktop\New folder\WebNews\News\obj\Debug\News.csproj.AssemblyReference.cache
+C:\Users\quang\Desktop\New folder\WebNews\News\obj\Debug\DVCP.Migrations.dataNews.resources
+C:\Users\quang\Desktop\New folder\WebNews\News\obj\Debug\News.csproj.GenerateResource.cache
+C:\Users\quang\Desktop\New folder\WebNews\News\obj\Debug\News.csproj.CoreCompileInputs.cache
+C:\Users\quang\Desktop\New folder\WebNews\News\obj\Debug\News.csproj.CopyComplete
+C:\Users\quang\Desktop\New folder\WebNews\News\obj\Debug\DVCP.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\obj\Debug\DVCP.pdb
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\ElFinder.Net.dll.config
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Buffers.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Memory.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Numerics.Vectors.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Buffers.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Memory.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Numerics.Vectors.xml
+C:\Users\quang\Desktop\New folder\WebNews\News\bin\System.Runtime.CompilerServices.Unsafe.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\DVCP.dll.config
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\DVCP.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\DVCP.pdb
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\Antlr3.Runtime.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\ElFinder.Net.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\EntityFramework.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\EntityFramework.SqlServer.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\Microsoft.Owin.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\Microsoft.Web.Infrastructure.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\Newtonsoft.Json.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\PagedList.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\PagedList.Mvc.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\SlugGenerator.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Buffers.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Diagnostics.DiagnosticSource.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Memory.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Numerics.Vectors.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Runtime.CompilerServices.Unsafe.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.Helpers.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.Mvc.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.Optimization.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.Razor.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.WebPages.Deployment.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.WebPages.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.WebPages.Razor.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\WebGrease.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\ElFinder.Net.pdb
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\ElFinder.Net.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\ElFinder.Net.dll.config
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\EntityFramework.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\EntityFramework.SqlServer.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\Microsoft.Owin.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\Newtonsoft.Json.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\PagedList.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\PagedList.Mvc.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Buffers.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Diagnostics.DiagnosticSource.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Memory.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Numerics.Vectors.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Runtime.CompilerServices.Unsafe.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.Helpers.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.Mvc.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.Razor.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.WebPages.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.WebPages.Deployment.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.WebPages.Razor.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\System.Web.Optimization.xml
+P:\Visual Studio Projects\source\repos\WebNews\News\bin\Antlr3.Runtime.pdb
+P:\Visual Studio Projects\source\repos\WebNews\News\obj\Debug\News.csproj.AssemblyReference.cache
+P:\Visual Studio Projects\source\repos\WebNews\News\obj\Debug\DVCP.Migrations.dataNews.resources
+P:\Visual Studio Projects\source\repos\WebNews\News\obj\Debug\News.csproj.GenerateResource.cache
+P:\Visual Studio Projects\source\repos\WebNews\News\obj\Debug\News.csproj.CoreCompileInputs.cache
+P:\Visual Studio Projects\source\repos\WebNews\News\obj\Debug\News.csproj.CopyComplete
+P:\Visual Studio Projects\source\repos\WebNews\News\obj\Debug\DVCP.dll
+P:\Visual Studio Projects\source\repos\WebNews\News\obj\Debug\DVCP.pdb
