@@ -8,6 +8,7 @@ namespace DVCP.Models
 
     public partial class User
     {
+<<<<<<< HEAD
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public User()
         {
@@ -34,5 +35,8 @@ namespace DVCP.Models
 
         public bool status { get; set; }
 
+=======
+        
+>>>>>>> f431144958461c9c94d2ace9bfd8744807f6008a
     }
 }
