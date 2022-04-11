@@ -42,6 +42,8 @@ namespace DVCP.Controllers
             if(!String.IsNullOrWhiteSpace(title))
             {
                 Post p = db.postRepository.FindBySlug(title);
+
+
                 if (p != null)
                 {
                     p.ViewCount++;
@@ -53,7 +55,12 @@ namespace DVCP.Controllers
                         slug = SlugGenerator.SlugGenerator.GenerateSlug(m.TagName) + "-" + m.TagID
                     }).ToList();
                     return View(new ViewPostViewModel
+
                     {
+
+                        ViewCount = p.ViewCount,
+                        tagLists = tagLists,
+
                         post_id = p.post_id,
                         Games = p.Games,
                         create_date = p.create_date,
