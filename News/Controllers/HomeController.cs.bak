@@ -57,10 +57,15 @@ namespace DVCP.Controllers
                     return View(new ViewPostViewModel
 
                     {
+<<<<<<< HEAD
+=======
 
+                        ViewCount = p.ViewCount,
+                        tagLists = tagLists,
 
                         post_id = p.post_id,
                         Games = p.Games,
+>>>>>>> 6d6d04d3406d06126c7ba1133034e71b678c23a2
                         create_date = p.create_date,
                         //firstTag = tagLists.FirstOrDefault().name,
                         post_review = p.post_review,
