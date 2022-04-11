@@ -54,8 +54,6 @@ namespace DVCP.Controllers
                     }).ToList();
                     return View(new ViewPostViewModel
                     {
-                        post_id = p.post_id,
-                        Games = p.Games,
                         create_date = p.create_date,
                         //firstTag = tagLists.FirstOrDefault().name,
                         post_review = p.post_review,
